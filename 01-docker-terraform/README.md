@@ -171,4 +171,5 @@ Did you take notes? You can share them here
 * [Notes from Zharko Cekovski](https://www.zharconsulting.com/contents/data/data-engineering-bootcamp-2024/week-1-postgres-docker-and-ingestion-scripts/)
 * [2024 Module Walkthough video by ellacharmed on youtube](https://youtu.be/VUZshlVAnk4)
 * [2024 Companion Module Walkthough slides by ellacharmed](https://github.com/ellacharmed/data-engineering-zoomcamp/blob/ella2024/cohorts/2024/01-docker-terraform/walkthrough-01.pdf)
+* [2024 Week1 Videos transcripts](https://drive.google.com/drive/folders/1MmQwTS0lyLUkEpe7o2HpvAXNPQx535Ch?usp=drive_link) by Maria Fisher 
 * Add your notes here
